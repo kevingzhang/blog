@@ -1,7 +1,7 @@
 baseURL = "https://kevingzhang.github.io"
 languageCode = "en-us"
 title = "Kevin Zhang - the Sweeper Monk"
-theme = "m10c"
+theme = "air"
 disqusShortname = "kevingzhang"
 publishDir = "kevingzhang.github.io"
 [[params.social]]
