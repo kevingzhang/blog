@@ -1,13 +1,37 @@
-baseURL = "https://kevingzhang.github.io/"
+baseURL = "https://kevingzhang.github.io"
 languageCode = "en-us"
 title = "Kevin Zhang - the Sweeper Monk"
-theme = "air"
+theme = "hugo-dust"
 disqusShortname = "kevingzhang"
 publishDir = "kevingzhang.github.io"
+description = "Bear with me as English is not my programming language"
+[author]
+  name = "Kevin Zhang"
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[params.meta]
+  keywords = "blog, tech"
+  description = "Personal blog."
+[params]
+  github = "kevingzhang"
+  twitter = "pushbar"
+  linkedin = "kevin.zhang.canada@gmail.com"
+  email = "kevin.zhang.canada@gmail.com"
+  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
 [[params.social]]
   name = "github"
   url = "https://github.com/kevingzhang"
-[params]
-  author = "Sweeper Monk"
-  description = "Bear with me as English is not my programming language"
-  avatar = "https://avatars3.githubusercontent.com/u/1761809?s=400&v=4"
+# [params]
+#   author = "Sweeper Monk"
+#   description = "Bear with me as English is not my programming language"
+#   avatar = "https://avatars3.githubusercontent.com/u/1761809?s=400&v=4"

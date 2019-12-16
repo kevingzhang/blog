@@ -1,9 +1,6 @@
 [submodule "kevingzhang.github.io"]
 	path = kevingzhang.github.io
 	url = git@github.com:kevingzhang/kevingzhang.github.io.git
-[submodule "themes/LoveIt"]
-	path = themes/LoveIt
-	url = https://github.com/dillonzq/LoveIt.git
 [submodule "themes/hugo-dust"]
 	path = themes/hugo-dust
 	url = https://github.com/gyorb/hugo-dusk
