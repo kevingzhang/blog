@@ -1,9 +1,9 @@
 ---
 title: "Secure your data at rest, in transmit, and more difficult, in use"
 date: 2019-12-15T22:12:49-08:00
-draft: true
 ---
 When we talking about secure our data, we actually mean three different stages of a data's life. 
+
 Data at rest: When data is sleeping in someone's hard drive.
 Data in transit: Data is transferred between two trusted domains. eg. from a database server to compute node, or from your browser to a server.
 Data in use: Data is calculated inside a machine (RAM and CPU)
