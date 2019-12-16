@@ -1,0 +1,11 @@
+baseURL = "https://kevingzhang.github.io"
+languageCode = "en-us"
+title = "Bear with me as English is not my programming language"
+theme = "m10c"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/vaga"
+[params]
+  author = "Kevin Zhang"
+  description = "description"
+  avatar = "https://avatars3.githubusercontent.com/u/1761809?s=400&v=4"
