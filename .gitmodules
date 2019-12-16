@@ -4,3 +4,6 @@
 [submodule "themes/hugo-dust"]
 	path = themes/hugo-dust
 	url = https://github.com/gyorb/hugo-dusk
+[submodule "themes/huge-dusk"]
+	path = themes/huge-dusk
+	url = https://github.com/gyorb/hugo-dusk
