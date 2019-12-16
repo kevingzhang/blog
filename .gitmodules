@@ -1,3 +1,6 @@
 [submodule "kevingzhang.github.io"]
 	path = kevingzhang.github.io
 	url = git@github.com:kevingzhang/kevingzhang.github.io.git
+[submodule "themes/huge-dusk"]
+	path = themes/huge-dusk
+	url = https://github.com/kevingzhang/hugo-dusk
