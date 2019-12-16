@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Kevin Zhang - the Sweeper Monk"
 theme = "hugo-dusk"
 disqusShortname = "kevingzhang"
-publishDir = "kevingzhang.github.io"
+publishDir = "../kevingzhang.github.io"
 description = "Bear with me as English is not my programming language"
 [author]
   name = "Kevin Zhang"
