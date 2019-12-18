@@ -2,6 +2,8 @@
 title: "Secure your data at rest, in transmit, and more difficult, in use"
 date: 2019-12-15T22:12:49-08:00
 ---
+![](https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alexa-privacy_660_041219033347.jpg)
+
 When we talking about secure our data, we actually mean three different stages of a data's life. 
 
 Data at rest: When data is sleeping in someone's hard drive.
