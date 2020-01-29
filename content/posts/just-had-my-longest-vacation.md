@@ -1,9 +1,8 @@
 ---
-title: "Just Had My Longest Vacation"
+title: "Just Had My Longest Vacation and Back to Work"
 date: 2020-01-28T15:07:43-08:00
 draft: false
 ---
-# I just had my longest vacation and back to work
 
 I did not update my blog for a month. Where did I go? I just had my longest vacation since my first job. I went to Florida and Bamahas Islands cruise vacation with my family. After that, I went to the Arizona desert for a camping trip with my RV group members. It took me about a month in total. I never had such an extended vacation in my whole life because I have never been laid off. All my previous jobs are connected back to back, even overlapped a few times - I have to use the last job's vacation time to cover the early start of the next career. This time, I make a brave decision. I am not going to find a new job after resignation. I would enjoy my own time. It happened to be the Christmas and New Year holiday. So I enjoyed an extended year-end holiday I never had before.  That was awesome!
 

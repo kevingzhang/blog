@@ -3,8 +3,6 @@ title: "Leave Your Data There, I Will Send My App Over"
 date: 2020-01-28T13:47:50-08:00
 draft: false
 ---
-# Leave your data there, let me send my app over
-
 ## Today's cloud computing cannot handle tomorrow's use cases
 
 No matter what kind of computation we need to put input data and algorithm code together into a computer, and run the algorithm against the data so that we can get the result.
