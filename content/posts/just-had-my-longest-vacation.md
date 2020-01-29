@@ -7,20 +7,22 @@ draft: false
 I did not update my blog for a month. Where did I go? I just had my longest vacation since my first job. I went to Florida and Bamahas Islands cruise vacation with my family. After that, I went to the Arizona desert for a camping trip with my RV group members. It took me about a month in total. I never had such an extended vacation in my whole life because I have never been laid off. All my previous jobs are connected back to back, even overlapped a few times - I have to use the last job's vacation time to cover the early start of the next career. This time, I make a brave decision. I am not going to find a new job after resignation. I would enjoy my own time. It happened to be the Christmas and New Year holiday. So I enjoyed an extended year-end holiday I never had before.  That was awesome!
 
 I went to so many places:
-Florida keys for snorkeling, kayaking
-Watching the alligators in Miami
-Royal Carribean Cruise Trip to the Bamahas Islands and celebrate 2020 new year on the ship: Navigator of Seas
-A Perfect day in Coco Kay
-Nassau, Bahamas
-Orlando NASA Kennedy Space Center
-Watch Elon Musk Space X rocket launch
-Quartzsite, AZ desert camping with Hymer Aktiv Facebook Group 
-Lake Havasu City, AZ
-Mojave Deserts
-Death Valley NP
-Rainbow Canyon
-RedRock State Park, CA
-I post a few pictures on the way. 
+- Florida keys for snorkeling, kayaking
+- Watching the alligators in Miami
+- Royal Carribean Cruise Trip to the Bamahas Islands and celebrate 2020 new year on the ship: Navigator of Seas
+- A Perfect day in Coco Kay
+- Nassau, Bahamas
+- Orlando NASA Kennedy Space Center
+- Watch Elon Musk Space X rocket launch
+- Quartzsite, AZ desert camping with Hymer Aktiv Facebook Group 
+- Lake Havasu City, AZ
+- Mojave Deserts
+- Death Valley NP
+- Rainbow Canyon
+- RedRock State Park, CA
+
+I post a few pictures on my trip. 
+
 ## Florida Keys
 
 ![Florida Keys](https://lh3.googleusercontent.com/NQF5uICUKOZFSvVCgKZH4gdrPHqls4bZUddZdzQqY80lUwydUKW15FjD6Gfi5uf6dyzvsSyZFBVfl-M1ZrCY_82ZxVE_apkedCxCFJe7TE_vWP1WO65e_kAINHU73mavGxpR-jFh8z8fzLG1AV3no3ERnn1Rv0eVQTnZyWaDkS1Jya3w8uD-wHkuzAZ5D6tE2Ww6wS7W3ivJ1aXkqfsQ_NhpNhLvrLI5WrOvaj8CFvva3ZB9Udq7dFBd4DE835xlJyMq7uGsP9JDpnEmFZmq0Bmi36Jy9uu30kXunVKE1v0Qi7Q5DvRU75DMwdSX9JbcdNfKibKDg6Lnb6C0mCeaBE3x9FrfTkhjHsGba2FwSxYARJfyFAlYarX7hlhnZZQJWtDGiyD0TkO28b9yV5PnaZXWdrZ8CywlD1hK2z1sDt7Y2cy5iMYfyJqVoIV1ZbFBSaL37yj1BOEt1Y-Ih18I_9gHlZcWdq4_h7Htw64oFibFQsnLmn7Uam6XuyfTy75zkziXu9TlnDTst4jxp5I2ON2XsjFOZ4KeMl2qQuMv1RbAl-_-lC9pY2IjNK76s6xJBXvTPPURXcnNur2BS9D3j-bUwWPBCXmYMvcg0uRmrYcjUOwMEy_yZ4TsaSMyiRDXfVQ4muDX1o-rRQD_MW_-twlVqm-zvh-2V-dgNfIQSVJt8qclgK_6yX2G=w2889-h1624-no)
