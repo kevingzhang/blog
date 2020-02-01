@@ -1,7 +1,7 @@
 ---
 title: "Possible improvement for Dgraph Badger encryption at rest"
 date: 2020-01-31T20:22:55-08:00
-draft: true
+draft: false
 ---
 
 # How Badge DB protect data at rest
