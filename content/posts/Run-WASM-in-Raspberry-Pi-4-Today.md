@@ -90,19 +90,10 @@ default-backend-singlepass = ["singlepass"]
 default-backend-llvm = ["llvm"]
 default-backend-cranelift = ["cranelift"]
 deterministic-execution = ["wasmer-singlepass-backend/deterministic-execution", "wasmer-runtime-core/deterministic-execution"]
+
 ```
-[features]
-default = ["singlepass", "default-backend-singlepass"]
-docs = []
-cranelift = ["wasmer-clif-backend"]
-cache = ["cranelift"]
-llvm = ["wasmer-llvm-backend"]
-singlepass = ["wasmer-singlepass-backend"]
-default-backend-singlepass = ["singlepass"]
-default-backend-llvm = ["llvm"]
-default-backend-cranelift = ["cranelift"]
-deterministic-execution = ["wasmer-singlepass-backend/deterministic-execution", "wasmer-runtime-core/deterministic-execution"]
-```
+
+
 Build again... Yeah, I made it!
 
 # Playing around Wasmer Rust Integration
