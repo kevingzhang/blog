@@ -42,7 +42,7 @@ TEA 和茶叶没有关系，它是 Trusted Execution & Attestation的缩写。�
 
 任何安装有符合TCG2.0(Trusted Computing Group)规范的TPM芯片的计算设备都可以加入Tea Chain。目前绝大多数电脑和手机都已经安装了各种类型的TPM芯片。其中最近几年生产的也都兼容TCG2.0标准。
 
-为了把TCB（Trust Compute Base)缩小到安全极限，我们要求这个参与节点必须专职来进行可信计算服务。所以我们定制了一个极简化的操作系统内核Linux Kernel。这个甚至不能成为是完整的操作系统，因为它只能运行我们自己设计的Wasm Runtime和TPM驱动。除此以外的所有功能概不提供，而必须依赖网络或者Host主机的支持。
+为了把TCB（Trust Compute Base)缩小到安全极限，我们要求这个参与节点必须专职来进行可信计算服务。所以我们定制了一个极简化的操作系统内核Linux Kernel。这个甚至不能被称为是完整的操作系统，因为它只能运行我们自己设计的Wasm Runtime和TPM驱动。除此以外的所有功能概不提供，而必须依赖网络或者Host主机的支持。这样一个定制的微型内核拥有最小的攻击面。
 
 TEA runtime是一个与WASI标准兼容的Wasm Runtime。除了基本的Wasm Runtime功能之外，还内置了几个核心模块：
 - TPM芯片的通讯接口
